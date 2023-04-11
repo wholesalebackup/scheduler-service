@@ -29,5 +29,5 @@ WholesaleBackup [Online Backup Software](https://wholesalebackup.com/backup-soft
 
 The backup client can be deployed on [Windows](https://wholesalebackup.com/backup-software/windows-backup-client/) and [macOS](https://wholesalebackup.com/backup-software/wholesalebackup-macos-backup-client/) systems.
 
-Need help?
-Connect with wholesalebackup.com if you have any questions.
+#### Need help? 
+Connect with [wholesalebackup.com](https://wholesalebackup.com/) if you have any questions.
