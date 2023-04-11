@@ -28,3 +28,6 @@ Screenshot of the WholesaleBackup client scheduler service control panel from Se
 WholesaleBackup [Online Backup Software](https://wholesalebackup.com/backup-software/) allows you to configure your backup service using [self-hosted Windows Server](https://wholesalebackup.com/backup-software/wholesalebackup-server/) or using cloud-based object storage from [S3](https://wholesalebackup.com/backup-software/amazon-s3-cloud-backup-client/), [Wasabi](https://wholesalebackup.com/backup-software/wasabi-backup-client/), [Backblaze](https://wholesalebackup.com/backup-software/backblaze-backup-client/), and [GCP](https://wholesalebackup.com/backup-software/google-cloud-backup-client/). 
 
 The backup client can be deployed on [Windows](https://wholesalebackup.com/backup-software/windows-backup-client/) and [macOS](https://wholesalebackup.com/backup-software/wholesalebackup-macos-backup-client/) systems.
+
+Need help?
+Connect with wholesalebackup.com if you have any questions.
